@@ -1,7 +1,7 @@
 # KM4LAW2022
 ## KM4LAW 2022 – Knowledge Management and Process Mining for Law (2022)
 
-The "pdf" folder contains the artcile.
+The "pdf" folder contains the article.
 
 If you use it, please cite:
 
