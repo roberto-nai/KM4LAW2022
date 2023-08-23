@@ -1,4 +1,4 @@
-# KM4LAW2022
+# Public procurement fraud detection and artificial intelligence techniques: a literature review
 ## KM4LAW 2022 – Knowledge Management and Process Mining for Law (2022)
 
 The "pdf" folder contains the article.
